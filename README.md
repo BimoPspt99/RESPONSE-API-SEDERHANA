@@ -26,8 +26,9 @@ Berikut adalah daftar endpoint yang tersedia:
 * **Method:** `GET`
 * **Endpoint:** `/users`
 * **Contoh URL:** `http://localhost/response-api-sederhana/index.php?path=users`
-  ![Screenshot 2025-06-06 234355](https://github.com/user-attachments/assets/f56fcd55-7f06-4fdc-8d89-dd8f20ffacb8)
+  ![Screenshot 2025-06-06 234355](https://github.com/user-attachments/assets/f56fcd55-7f06-4fdc-8d89-dd8f20ffacb
   ![Screenshot 2025-06-06 234422](https://github.com/user-attachments/assets/27b611b4-cc70-4b29-ad3d-93d801ffffa8)
+![DATABASE BARU DI DELETE](https://github.com/user-attachments/assets/168f6cae-c60e-40fc-b81d-4372e3eefcda)
 
 ### 2. Membuat Pengguna Baru
 * **Method:** `POST`
