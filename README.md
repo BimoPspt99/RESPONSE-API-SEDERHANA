@@ -1,11 +1,10 @@
-# Proyek API Sederhana (response-api-sederhana)
-
+# PROJEK API SEDERHANA
 Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelola data pengguna (Users). API ini mendukung operasi CRUD (Create, Read, Update, Delete).
 
 ## Teknologi
 * PHP 8.1
-* Server Apache (via XAMPP)
-* MySQL / MariaDB
+* Apache (via XAMPP)
+* MySQL  (via XAMPP)
 
 ## Instalasi
 1.  Pertama Clone dulu Repository ini:
@@ -35,7 +34,9 @@ Berikut adalah daftar endpoint yang tersedia:
 * **Contoh URL:** `http://localhost/response-api-sederhana/index.php?path=users`
 *  Bisa kita ilihat bahwa user baru yang ditambahkan melalui method POST akan masuk ke dalam database
  ![POSTMAN POST](https://github.com/user-attachments/assets/879aa177-9b13-433d-b2b5-3414f3fdaecb)
-
+* Dan ini data yang sudah kita imput tadi dengan method 'POST'
+ ![database](https://github.com/user-attachments/assets/cddcb3c8-4a7a-4ccc-8bd9-423ede0c89c9)
+  
 
 ### 3. Mengupdate Data Pengguna
 * **Method:** `PUT`
