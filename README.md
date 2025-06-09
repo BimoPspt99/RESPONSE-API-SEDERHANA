@@ -1,5 +1,5 @@
 # PROJEK API SEDERHANA
-**Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelola data pengguna (Users). API ini mendukung operasi CRUD (Create, Read, Update, Delete).**
+**Ini adalah sebuah projek API sederhana yang dibuat menggunakan PHP native untuk mengelola sebuah data pengguna. API ini mendukung Method CRUD (Create, Read, Update, Delete).**
 
 ## Teknologi
 * **PHP 8.1**
@@ -34,7 +34,7 @@ Berikut adalah daftar endpoint yang tersedia:
 * **Contoh URL:** `http://localhost/response-api-sederhana/index.php?path=users`
 *  **Bisa kita ilihat bahwa user baru yang ditambahkan melalui method POST akan masuk ke dalam database**
  ![POSTMAN POST](https://github.com/user-attachments/assets/879aa177-9b13-433d-b2b5-3414f3fdaecb)
-* **Dan ini data yang sudah kita imput tadi dengan method 'POST'**
+* **Dan ini data yang sudah kita input tadi dengan method 'POST'**
  ![database](https://github.com/user-attachments/assets/cddcb3c8-4a7a-4ccc-8bd9-423ede0c89c9)
   
 
