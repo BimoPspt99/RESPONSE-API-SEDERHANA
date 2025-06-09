@@ -50,7 +50,7 @@ Berikut adalah daftar endpoint yang tersedia:
 * **Endpoint:** `/users`
 * **Contoh URL:** `http://localhost/response-api-sederhana/index.php?path=users/7`
 * ![DELETE POSTMAN](https://github.com/user-attachments/assets/c28f1f42-b414-41dd-ae77-1dea2ccf1bff)
-* **Setelah Method DELETE di request maka perubahan dapat dilihat pada database**
+* **Data sudah berhasil dihapus dengan Methode 'DELETE'**
 ![DATABASE BARU DI DELETE](https://github.com/user-attachments/assets/36f9a571-f40f-4050-b0e4-4f0699a71af3)
 
   
