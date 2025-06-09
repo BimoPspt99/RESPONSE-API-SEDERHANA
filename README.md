@@ -8,12 +8,12 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 * MySQL / MariaDB
 
 ## Instalasi
-1.  Clone repository ini: `git clone https://...`
-2.  Letakkan folder proyek di dalam `www` pada direktori Laragon Anda.
-3.  Buat database baru di phpMyAdmin dengan nama `db_chatai`.
+1.  Pertama Clone dulu Repository ini:
+2.  Letakkan folder Clone tadi ke Htdocs di dalam Folder Xampp
+3.  Buat database baru di phpMyAdmin dengan nama `chataibeckend2`.
 4.  Import file `database.sql` (jika ada) ke dalam database tersebut.
 5.  Sesuaikan koneksi database di dalam file `config.php`.
-6.  Jalankan server Apache dan MySQL melalui laragon Control Panel.
+6.  Jalankan server Apache dan MySQL melalui Xampp.
 7.  API siap diakses melalui `http://localhost/response-api-sederhana/`.
 
 ## Endpoints API
@@ -33,7 +33,7 @@ Berikut adalah daftar endpoint yang tersedia:
 * **Method:** `POST`
 * **Endpoint:** `/users`
 * **Contoh URL:** `http://localhost/response-api-sederhana/index.php?path=users`
-  Bisa kita ilihat bahwa user baru yang ditambahkan melalui method POST akan masuk ke dalam database
+*  Bisa kita ilihat bahwa user baru yang ditambahkan melalui method POST akan masuk ke dalam database
  ![POSTMAN POST](https://github.com/user-attachments/assets/879aa177-9b13-433d-b2b5-3414f3fdaecb)
 
 
@@ -51,7 +51,7 @@ Berikut adalah daftar endpoint yang tersedia:
 * **Contoh URL:** `http://localhost/response-api-sederhana/index.php?path=users/7`
   ![Screenshot 2025-06-07 001428](https://github.com/user-attachments/assets/baa01407-1826-4071-bf65-484b455f0522)
    Setelah Method DELETE di request maka perubahan dapat dilihat pada database
-  ![Screenshot 2025-06-07 001452](https://github.com/user-attachments/assets/4f3d43a3-1edd-4ee5-8bed-577ebea1d6b2)
+  
 
 
 
