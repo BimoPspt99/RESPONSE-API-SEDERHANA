@@ -18,7 +18,7 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 ## Endpoints API
 
 Berikut adalah daftar endpoint yang tersedia:
-
+(◣_◢)
 ---
 
 ### 1. Menampilkan Semua Pengguna
