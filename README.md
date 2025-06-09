@@ -37,20 +37,21 @@ Berikut adalah daftar endpoint yang tersedia:
  ![POSTMAN POST](https://github.com/user-attachments/assets/879aa177-9b13-433d-b2b5-3414f3fdaecb)
 
 
-### 3. Mengubah Data Pengguna(Update)
+### 3. Mengupdate Data Pengguna
 * **Method:** `PUT`
 * **Endpoint:** `/users`
 * **Contoh URL:** `http://localhost/response-api-sederhana/index.php?path=users`
-  ![Screenshot 2025-06-07 001116](https://github.com/user-attachments/assets/d6a8f5e3-5a77-4d17-9d6b-5b657b94e2af)
-  Setelah Method PUT di request maka perubahan dapat dilihat pada database
-  ![Screenshot 2025-06-07 001208](https://github.com/user-attachments/assets/4259a1a8-629a-4fda-ae33-d3c8e720a7f0)
+![PUT POSTMAN](https://github.com/user-attachments/assets/58a1ce20-6092-4346-a09e-4e490f9c88b6)
+
 
 ### 4. Menghapus Data Pengguna
 * **Method:** `DELETE`
 * **Endpoint:** `/users`
 * **Contoh URL:** `http://localhost/response-api-sederhana/index.php?path=users/7`
-  ![Screenshot 2025-06-07 001428](https://github.com/user-attachments/assets/baa01407-1826-4071-bf65-484b455f0522)
-   Setelah Method DELETE di request maka perubahan dapat dilihat pada database
+* ![DELETE POSTMAN](https://github.com/user-attachments/assets/c28f1f42-b414-41dd-ae77-1dea2ccf1bff)
+* Setelah Method DELETE di request maka perubahan dapat dilihat pada database
+![DATABASE BARU DI DELETE](https://github.com/user-attachments/assets/36f9a571-f40f-4050-b0e4-4f0699a71af3)
+
   
 
 
