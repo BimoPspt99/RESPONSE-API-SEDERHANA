@@ -22,21 +22,20 @@ Berikut adalah daftar endpoint yang tersedia:
 
 ---
 
-### 1. Mendapatkan Semua Pengguna
+### 1. Menampilkan Semua Pengguna
 * **Method:** `GET`
 * **Endpoint:** `/users`
 * **Contoh URL:** `http://localhost/response-api-sederhana/index.php?path=users`
-  ![Screenshot 2025-06-06 234355](https://github.com/user-attachments/assets/f56fcd55-7f06-4fdc-8d89-dd8f20ffacb
-  ![Screenshot 2025-06-06 234422](https://github.com/user-attachments/assets/27b611b4-cc70-4b29-ad3d-93d801ffffa8)
-![DATABASE BARU DI DELETE](https://github.com/user-attachments/assets/168f6cae-c60e-40fc-b81d-4372e3eefcda)
+ ![GET POSTMAN](https://github.com/user-attachments/assets/1e27534f-17c6-4358-9d36-605d2ef78d53)
+
 
 ### 2. Membuat Pengguna Baru
 * **Method:** `POST`
 * **Endpoint:** `/users`
 * **Contoh URL:** `http://localhost/response-api-sederhana/index.php?path=users`
-  ![Screenshot 2025-06-07 000432](https://github.com/user-attachments/assets/4a9071aa-4ced-4f2f-bea1-38be15cada58)
-  Dapat dilihat bahwa user baru yang ditambahkan melalui method POST akan masuk ke dalam database
-  ![Screenshot 2025-06-07 000455](https://github.com/user-attachments/assets/c0938b5a-fb33-42ab-849a-050d0dcc1ac9)
+  Bisa kita ilihat bahwa user baru yang ditambahkan melalui method POST akan masuk ke dalam database
+ ![POSTMAN POST](https://github.com/user-attachments/assets/879aa177-9b13-433d-b2b5-3414f3fdaecb)
+
 
 ### 3. Mengubah Data Pengguna(Update)
 * **Method:** `PUT`
